@@ -38,7 +38,7 @@ export default function Footer() {
               <Linkedin size={16} />
             </a>
             <a
-              href="#"
+              href="https://www.linkedin.com/company/taskforce-nittrichy/"
               aria-label="Instagram"
               className="flex h-9 w-9 items-center justify-center rounded-full border border-[#c9d8dc] text-[#5d7277] transition-colors hover:border-[#3a8f92] hover:text-[#3a8f92]"
             >
