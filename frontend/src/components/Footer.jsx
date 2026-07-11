@@ -31,14 +31,14 @@ export default function Footer() {
           </p>
           <div className="mt-5 flex gap-3">
             <a
-              href="#"
+              href="https://www.linkedin.com/company/taskforce-nittrichy/"
               aria-label="LinkedIn"
               className="flex h-9 w-9 items-center justify-center rounded-full border border-[#c9d8dc] text-[#5d7277] transition-colors hover:border-[#3a8f92] hover:text-[#3a8f92]"
             >
               <Linkedin size={16} />
             </a>
             <a
-              href="https://www.linkedin.com/company/taskforce-nittrichy/"
+              href="https://www.instagram.com/taskforce_nitt?igsh=MWR3anpxYnEzNDhpOA=="
               aria-label="Instagram"
               className="flex h-9 w-9 items-center justify-center rounded-full border border-[#c9d8dc] text-[#5d7277] transition-colors hover:border-[#3a8f92] hover:text-[#3a8f92]"
             >
